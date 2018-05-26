@@ -58,7 +58,7 @@ public class TextJustification {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String words[] = { "Tushar", "Roy", "likes", "to", "code" };
+		String words[] = { "Joydip", "likes", "to", "code" };
 		TextJustification awl = new TextJustification();
 		System.out.println(awl.justifyDynamic(words, 10));
 	}
